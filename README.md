@@ -1,6 +1,15 @@
 # ESP-NOW CAR RADIO CONTROL
 Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cualquier kit basado en ESP32 o ESP8266
 
+### Componentes
+| Item             | Quantity | Notes                         |
+| ---------------- | -------- | ----------------------------- |
+| ESP-32 or 8266   | 2        |                               |
+| Motors           | 4        |                               |
+| 3mm LED          | 7        | Red, Orange, White, Bicolor   |
+| 5mm Push button  | 5        |                               |
+| Resistor         | 10       |                               | 
+| Joystick         | 1        |                               |
 
 ### Diagramas
 <p align="center">
