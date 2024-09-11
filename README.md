@@ -13,7 +13,7 @@ Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cu
 | Battery          | 4        | 18650 or whatever             |
 
 ## Diagramas
-<p align="center">
+<p align="left">
 ### Receptor
 <img src="/IMAGES/01_RX_RC_ESPNOW_CARS_ESP32.jpg" width="480" height="480" alt="Receptor ESP32">
 ### Transmisor
