@@ -1,5 +1,6 @@
 # ESP-NOW AUTO RADIO CONTROL
 Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cualquier kit basado en ESP32 o ESP826.
+
 <img src="/IMAGES/MODELOS_01.jpg" width="480" height="240" alt="Receptor ESP32">
 
 ## Componentes
