@@ -21,4 +21,5 @@ Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cu
 ### Receptor
 <img src="/IMAGES/01_RX_RC_ESPNOW_CARS_ESP32.jpg" width="480" height="240" alt="Receptor ESP32">
 
-## Prototipos de pruebas
+## Modelos para pruebas
+Estos modelos estan realizados en tinkercad solo para tener una idea y usar materiales que tengamos a mano como carton u otro material disponible para hacer pruebas. <a href="https://www.tinkercad.com/things/cZZ9kkPH2MW-rcespnowtestcar-tx-24ghz" target="_blank" onclick="window.open('https://www.tinkercad.com/things/cZZ9kkPH2MW-rcespnowtestcar-tx-24ghz','Transmisor','width=600,height=400')">Transmisor</a>
