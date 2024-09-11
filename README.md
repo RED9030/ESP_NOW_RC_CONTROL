@@ -1,5 +1,5 @@
 # ESP-NOW CAR RADIO CONTROL
-Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cualquier kit basado en ESP32 o ESP8266
+Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cualquier kit basado en ESP32 o ESP826.
 
 ## Componentes
 | Item             | Quantity | Notes                         |
