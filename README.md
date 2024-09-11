@@ -8,7 +8,7 @@ Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cu
 | Motors           | 4        |                               |
 | 3mm LED          | 7        | Red, Orange, White, Bicolor   |
 | 5mm Push button  | 5        |                               |
-| Resistor         | 10       |                               | 
+| Resistor         | 5        |                               | 
 | Joystick         | 1        |                               |
 
 ### Diagramas
