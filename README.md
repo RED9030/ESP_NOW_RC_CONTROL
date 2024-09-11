@@ -10,7 +10,7 @@ Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cu
 | 5mm Push button  | 5        |                               |
 | Resistor         | 5        |                               | 
 | Joystick         | 1        |                               |
-| Battery          | 4        | 18650 or whatever             |
+| Battery          | 4        | Usen las que encuentren       |
 
 ## Diagramas
 ### Transmisor
