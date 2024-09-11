@@ -14,7 +14,7 @@ Este proyecto se basa en el uso del protocolo ESP-NOW para ello necesitaremos cu
 
 ## Diagramas
 ### Transmisor
-<img src="/IMAGES/00_TX_RC_ESPNOW_CARS_ESP8266.jpg" width="480" height="480" alt="Transmisor ESP8266">
+<img src="/IMAGES/00_TX_RC_ESPNOW_CARS_ESP8266.jpg" width="480" height="240" alt="Transmisor ESP8266">
 
 ### Receptor
-<img src="/IMAGES/01_RX_RC_ESPNOW_CARS_ESP32.jpg" width="480" height="480" alt="Receptor ESP32">
+<img src="/IMAGES/01_RX_RC_ESPNOW_CARS_ESP32.jpg" width="480" height="240" alt="Receptor ESP32">
