@@ -2,9 +2,9 @@
   MODDER: @RED9030
 */
 /*
-  Title: MOD RC_CAR_RX
+  Title: ESPNOW ESP8266 CAR RX
   Este sketch permite la recepción de los datos mediante la comunicación ESP-NOW
-  Carro control remoto usando protocolo espNOW, 2 motores tracción trasera y giro.
+  Carro control remoto usando protocolo espNOW 2.4GHz, 4 motores tracción trasera/delantera y giros.
   
   HardWare: ESP8266
 */
